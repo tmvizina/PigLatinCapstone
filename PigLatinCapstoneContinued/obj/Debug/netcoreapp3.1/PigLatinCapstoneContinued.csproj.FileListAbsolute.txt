@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\bin\Debug\netcoreapp3.1\PigLatinCapstoneContinued.exe
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\bin\Debug\netcoreapp3.1\PigLatinCapstoneContinued.deps.json
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\bin\Debug\netcoreapp3.1\PigLatinCapstoneContinued.runtimeconfig.json
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\bin\Debug\netcoreapp3.1\PigLatinCapstoneContinued.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\bin\Debug\netcoreapp3.1\PigLatinCapstoneContinued.dll
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\bin\Debug\netcoreapp3.1\PigLatinCapstoneContinued.pdb
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.csprojAssemblyReference.cache
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.dll
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.pdb
+C:\Users\tmviz\source\repos\PigLatinCapstoneContinued\PigLatinCapstoneContinued\obj\Debug\netcoreapp3.1\PigLatinCapstoneContinued.genruntimeconfig.cache
